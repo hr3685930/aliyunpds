@@ -1,4 +1,4 @@
-module github.com/alibabacloud-go/mgmt-sdk
+module github.com/hr3685930/aliyunpds
 
 go 1.16
 
